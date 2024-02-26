@@ -1,1 +1,4 @@
-# nvim
+# Neovim
+
+## Branches
+- Lazygit
